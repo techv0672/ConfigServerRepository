@@ -1,0 +1,4 @@
+db:
+ url:http://dburl.com
+ username: dbusername
+ password: dbpwd
